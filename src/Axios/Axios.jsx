@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const instance = axios.create({
-    baseURL: 'http://localhost:3000',
+    baseURL: 'https://videocalling-app-backend-1.onrender.com',
     // timeout : 15000,
     headers:{
         "Content-Type": "application/json"
