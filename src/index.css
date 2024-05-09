@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.form-overlay {
+  background: rgba(163, 161, 161, 0.4);
+}
